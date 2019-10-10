@@ -5,7 +5,7 @@ View Working Concept On [Codepen](https://codepen.io/Archtects/pen/BVBomg)
 ### Todos
 
  - Make it even Lighter
- - Add Script to recognise how many divs are added for better customisation
+ - ~Add Script to recognise how many divs are added for better customisation~
  - Add A better way to add pauses between swipes, scrolls and key presses
 
 ### The Good Stuff
