@@ -1,0 +1,2 @@
+html,body{margin:0 auto;padding:0;overflow:hidden}.scroll{position:absolute;color:#fff;top:50%;transform:translateY(-50%);text-align:center;width:100%;font-size:60px;text-transform:uppercase}#swipeme{width:100%;height:100vh;text-align:center;overflow:hidden}#div1{width:100vw;height:100vh;transition:.5s ease-in-out;background-color:#0b0f10;position:relative}.wrapper_div_onepage{width:100vw;height:100vh;transition:.5s ease-in-out;background-color:#263238;position:relative}.wrapper_div_onepage:nth-child(odd){background:#0b0f10}
+/*# sourceMappingURL=style.css.map */
