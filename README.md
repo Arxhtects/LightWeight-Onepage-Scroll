@@ -11,7 +11,7 @@ View Working Concept On [Codepen](https://codepen.io/Archtects/pen/BVBomg)
 
 ### The Good Stuff
 
-Compiled Javascript : 
+Javascript : 
 
 ```sh
 (function() {
@@ -24,7 +24,7 @@ Compiled Javascript :
     } else {
         document.addEventListener("DOMContentLoaded", fn);
     }
-}    
+   }    
 
   docReady(function() {
     var swipeme = document.getElementById("swipeme").querySelectorAll(".wrapper_div_onepage");
